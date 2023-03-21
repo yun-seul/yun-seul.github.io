@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+}
+
+fieldset {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+}
+
+body {
+    background-image: url("./back2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home-button {
+
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.button-container {
+    text-align: center;
+}
